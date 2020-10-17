@@ -9,6 +9,7 @@ this project having three parts
 for running the project please follow this steps,
 
   first run backend using below commands,
+    
     cd chatwidget-rest
     npm install
     npm run start
